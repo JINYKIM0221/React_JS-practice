@@ -6,6 +6,29 @@
   height: 40vmin;
   pointer-events: none;
 }
+.white{
+  background-color: blue;
+  width: 100%;
+  height: auto;
+  color: black;
+  padding:20px;
+  display: flex;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.list{
+  text-align: left;
+  font-size: 18px;
+  
+}
+
+.modal{
+  padding: 20px;
+  margin-top: 20px;
+  background-color: gray;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
